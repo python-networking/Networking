@@ -1,10 +1,10 @@
 ***************************
-Networking Labs Repository
+Networking Labs Repository:
 ***************************
 This repository contains my hands-on practice and projects in networking, cybersecurity, and web technologies.
 
 ********
-Contents
+Contents:
 *********
 Cisco Packet Tracer Labs,
 Wireshark Packet Analysis,
@@ -12,7 +12,7 @@ Web Development (LAMP - Linux, Apache, MySQL, PHP),
 Networking Notes
 
 ********************
-Tools & Technologies
+Tools & Technologies:
 ********************
 Cisco Packet Tracer,
 Wireshark,
@@ -23,7 +23,7 @@ PHP,
 Git & GitHub
 
 *****************
-Project Structure
+Project Structure:
 *****************
 networking-labs/
 
@@ -36,7 +36,7 @@ networking-labs/
  ├── notes/
 
 ******
-Goals
+Goals:
 ******
 Learn networking fundamentals (IP, routing, switching),
 Practice real-world packet analysis,
